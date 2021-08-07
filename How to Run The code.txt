@@ -1,0 +1,4 @@
+1. Just upload the data_1.zip file which contains the dataset and uplaod haar.xml file in Google Collab .
+2. Run the code by pressing ctrl+F9.
+3.At the end you will get the predicted image with the image encoding.
+Note: Run the code only on GPU otherwise it will take time while making the triplets , because it is making 99000 triplets to train the model
